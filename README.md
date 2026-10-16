@@ -157,7 +157,7 @@ Kendi Firebase projeni kullanmak için:
 
 Bu uygulamadaki şu parçaları başka projelerde de kullanılabilsin diye **[Plugins](https://github.com/SafaSenturk/Plugins)** reposuna ekledim. Oradan erişip kendi projene kopyalayabilirsin:
 
-- **[booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/booking-slots)**: müsaitlik hesabı, çift rezervasyonu engelleyen transaction ve güvenlik kuralları.
+- **[booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/mobile/booking-slots)**: müsaitlik hesabı, çift rezervasyonu engelleyen transaction ve güvenlik kuralları.
 
 ---
 
@@ -251,7 +251,7 @@ Want a booking app for your business, with your own brand? **[safasenturk.github
 
 These parts of the app are available in the **[Plugins](https://github.com/SafaSenturk/Plugins)** repo, ready to copy into your own project:
 
-- **[booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/booking-slots)**: availability logic, the transaction that prevents double bookings and the security rules.
+- **[booking-slots](https://github.com/SafaSenturk/Plugins/tree/main/mobile/booking-slots)**: availability logic, the transaction that prevents double bookings and the security rules.
 
 ---
 
